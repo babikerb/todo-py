@@ -1,1 +1,2 @@
-# todo-py
+# TODO List Demo ACM CSUF Dev Team fa25
+This repository contains the solution for the intro to python workshop concering a todo list application via cli. The current implementation does **NOT** save tasks between runs.
